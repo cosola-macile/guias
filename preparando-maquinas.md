@@ -1,36 +1,39 @@
 # Preparando Máquinas
 
+Esta preparación es para las máquinas de windows.
+
 ## 1. Instalar chocolatey
 
 * Navegar a http://chocolaty.org/install
 * Abrir powerShell como administrador. Entra:
 
-	```sh
-	Set-ExecutionPolicy Bypass
-	# Aceptar los requisitos utilizando Y
-	```
+```
+Set-ExecutionPolicy Bypass
+# Aceptar los requisitos utilizando Y
+```
 
 - Copiar command text (No copiar el comentario)
 
-	```
-	# Don't forget to ensure ExecutionPolicy above
-	iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
+# Don't forget to ensure ExecutionPolicy above
+iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-	```
+```
 
 - Verificar que choco se ha instalado correctamente
 
-	```
-	choco --version
-	```
+```
+choco --version
+```
 
-## 2. Visitar el sitio web de node y descargar la versión más reciente 8.1.0
-	
-	https://nodejs.org/en/download/current/
+## 2. Visita el sitio web de node y descarga la versión más reciente 8.1.0
+```	
+https://nodejs.org/en/download/current/
+```
 
-## 3. Verificar que todo esta instalado correctamente	
+## 3. Verifica que todo esta instalado correctamente	
 	
-Abrir y cerrar la linea de comando, despues de haber instalado node
+Abre y cierra la linea de comando, después de haber instalado node
 	
 ```
 node --version
@@ -40,18 +43,14 @@ npm --version
 ```
 	
 ## 4. Desde choco instalamos yarn
+```
+choco install yarn -y # -y instala todos los defaults
+# Verificamos que todo esta instalado
+yarn --version
+# Debemos ver la version 0.24.6
+```
 
-	
-	choco install yarn -f (-f instala todos los defaults)
-	Verificamos que todo esta instalado
-	yarn --version
-	
-## 4. Instalar gulp
-
-
-	npm install gulp -g 
-
-## 5. Instalar servidor local
-
-
-	npm install http-server -g
+## 5. Instala gulp
+```
+npm install gulp -g 
+```
