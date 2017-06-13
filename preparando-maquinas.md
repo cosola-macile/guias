@@ -26,8 +26,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 choco --version
 ```
 
-## 2. Visita [el sitio web de node](https://nodejs.org/en/download/current/
-) y descarga la versión más reciente `8.1.0`
+## 2. Visita [el sitio web de node](https://nodejs.org/en/download/current/) y descarga la versión más reciente `8.1.0`
 
 ## 3. Verifica que todo esta instalado correctamente	
 	
