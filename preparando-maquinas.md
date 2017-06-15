@@ -2,7 +2,7 @@
 
 Esta preparación es para las máquinas de windows.
 
-## 1. Instalar [chocolatey](http://chocolaty.org/install)
+## 1. Instala [chocolatey](http://chocolaty.org/install)
 
 * Abrir powerShell como administrador. Entra:
 
@@ -23,8 +23,9 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 choco --version
 ```
 
-## 2. Visita [el sitio web de node](https://nodejs.org/en/download/current/) y descarga la versión más reciente `8.1.0`
+## 2. Instala Node.js
 
+- Visita [el sitio web de node](https://nodejs.org/en/download/current/) y descarga la versión más reciente `8.1.0`
 - Abre y cierra la linea de comando, después de haber instalado node
 - Verifica que todo esta instalado correctamente	
 	
