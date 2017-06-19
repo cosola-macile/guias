@@ -10,12 +10,10 @@ Estos son los pasos para crear un nuevo repositorio en GitHub.
 ## 2.Escribimos el nombre de nuestro repositorio.
 
 - El nombre debe ser corto y fácil de recordar
- 
 
 ## 3. Añadimos una descripción a nuestro repositorio
 
 - Esto es opcional
-
 
 ## 4. Elegimos si nuestro repositorio será público o privado
 
