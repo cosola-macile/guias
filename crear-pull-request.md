@@ -1,10 +1,10 @@
-# Crear Pull Requests y Merge
+# Crear Pull Requests e Integrar o Fusionar
 
-Pull Requests: es el corazón de la colaboración en githup. Cuando habra pull requests, esta proponiendo sus cambios y proponiendo que alguien tome en cuenta su contribución y la integre dentro de su rama. Pull resquests muestra diferencias de contenido en ambas ramas. Los combios adicionales y sustraciones aprarecen en verde y rojo.
+Pull Requests: son el corazón de la colaboración en Githup. Cuando abre o inicia ‘pull requests’, está proponiendo sus cambios y requiriendo que alguien tome en cuenta su contribución y la integre a su rama. Pull resquests muestran diferencias de contenido en ambas ramas. Los cambios adicionales y sustracciones aparecen en verde y rojo.
 
-Después de haber creado sus cambios en su rama (no en `master`) puede abrir un pull resquests.
+Después de haber creado cambios en su rama (no en 'Master'), puede abrir pull requests.
 
-Tan pronto haces un commit, puedes abrir un pull resquests e inicir un discución aun que no alla termnado de codificar.
+Tan pronto hace un commit, puede abrir un pull request e iniciar una discusión, aunque no haya terminado de codificar
 
 
 ## 1. Abrir pull requests
