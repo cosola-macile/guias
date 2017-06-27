@@ -33,17 +33,17 @@ El contenido de Master...
 ## 3. 
  Luego de resolver los conflictos, el archivo está listo para ser añadido. 
 ```
-Usa **git add**.
+Usa "git add".
 ```
 
 ## 4.
  ```
- git commit
+ "git commit"
  ```
 
 ## 5. 
 ```
-git push
+"git push"
 ```
 
 Y conflicto resuelto. 
