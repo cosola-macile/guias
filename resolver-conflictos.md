@@ -2,7 +2,7 @@
 
 Esta guia es para resolver conflictos con Git.
 
-NOTA: Estos conflictos ocurren cuando existen choques entre el contenido de tu rama y el contenido de Master, como Git no sabe que contenido tomar, el tuyo o el de master, de ja que seas tú que decidas cual debe tomar.
+NOTA: Conflictos ocurren cuando existen choques entre el contenido de tu rama y el contenido de Master. Como Git no sabe que contenido escoger, el tuyo o el de Master, deja que seas tú, o alguien con autoridad, quien decida cual contenido aceptar.
 
 ## 1. Ver el archivo que tiene el conflicto, si tiene el conflicto contendrá la siguiente estructura:
 
