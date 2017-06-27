@@ -17,7 +17,7 @@ NOTA: Conflictos ocurren cuando existen choques entre el contenido de tu rama y 
 
 >>>>>>> Master
 
-## 2. Debes borrar lo que no quieres, si quieres los cambios de Master borras los cambios de tu rama y si quieres los de tu rama, entonces borra los de Master.
+## 2. Debes borrar cambios que no quieres mantener. Si quieres los cambios de Master, borras los cambios de tu rama; si quieres los de tu rama, entonces borra los de Master.
 
 ## 3. Luego de que arreglas los conflictos, el archivo está listo para ser añadido: usa ```git add.
 
