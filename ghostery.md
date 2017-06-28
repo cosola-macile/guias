@@ -16,3 +16,8 @@
  	Install
 ```
 
+### Nota: ###
+- En caso de usar otro navegador, son los 
+mismos pasos lo único es especificar el navegador para el cual
+quieres instalar.
+
